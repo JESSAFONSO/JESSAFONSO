@@ -3,7 +3,5 @@
 - 🌱 I’m currently learning Computer Science and QA area
 - 📫 How to reach me by e-mail afonsoje2@gmail.com
 - 💞️ About me:
-I have a degree in Pharmaceutical Sciences where I have 4 years of professional experience in the area.
-2 years ago I decided to change countries, I came to live in Portugal, my homeland.
 A few months ago I decided to change careers.
 I started studying the universe of Computer Science on my own, which I discovered in the area of Quality Analyst/Tester, which I was interested in, and with that I've been trying to deepen my knowledge in technology.
